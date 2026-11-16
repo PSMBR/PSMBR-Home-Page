@@ -1,7 +1,9 @@
 
 /* ========================================
    PSMBR - MAIN JAVASCRIPT
-   Version 0.1
 ======================================== */
 
-// Future functionality will go here.
+console.log("Script.js Version 1");
+console.log("index.html Version 1");
+console.log("style.css Version 1");
+console.log("SnowScript.js Version 1");
