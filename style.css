@@ -652,3 +652,23 @@ button {
     }
 }
 
+/* =========================================
+   PAGE TRANSITION
+========================================= */
+
+body {
+    opacity: 1;
+    transition: opacity 0.4s ease;
+}
+
+body.page-leaving {
+    opacity: 0;
+}
+
+/* Respect reduced motion preferences */
+
+@media (prefers-reduced-motion: reduce) {
+    body {
+        transition: none;
+    }
+}
