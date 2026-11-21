@@ -1,8 +1,8 @@
-# PSMBR — Public Sheet Music Ballet Repertoire
+# PSMBR — Piano Sheet Music Ballet Repertoire
 
 **[Visit the Live Website](https://psmbr.github.io/PSMBR-Home-Page/)**
 
-PSMBR (Public Sheet Music Ballet Repertoire) is an open-source, community-driven archive dedicated to providing free, accessible public-domain sheet music, piano reductions, and classical repertoire scores for ballet dancers, pianists, teachers, and choreographers.
+PSMBR (Piano Sheet Music Ballet Repertoire) is an open-source, community-driven archive dedicated to providing free, accessible public-domain sheet music, piano reductions, and classical repertoire scores for ballet dancers, pianists, teachers, and choreographers.
 
 ---
 
@@ -11,7 +11,7 @@ PSMBR (Public Sheet Music Ballet Repertoire) is an open-source, community-driven
 Finding reliable, clean sheet music for classical ballet variations and class accompaniment can be challenging. **PSMBR** organizes public-domain scores in one easy-to-navigate online catalog, making classical ballet music freely available for rehearsals, classes, and performances.
 
 ### Key Features
-* **Free & Open Access:** Browse and download public-domain ballet scores with no paywalls.
+* **Free & Open Access:** Browse and download ballet scores with no paywalls.
 * **Repertoire & Variations:** Curated piano reductions and full scores for classic ballet repertoire.
 * **Easy Navigation:** Organized by ballet title, composer, and variation for quick lookup during rehearsals.
 
